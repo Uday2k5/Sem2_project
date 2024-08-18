@@ -1,0 +1,39 @@
+pnr- PNR622398
+Passenger Details:
+Name: p1, Age: 12, Gender: m
+Name: p2, Age: 21, Gender: m
+Name: p3, Age: 20, Gender: f
+Name: p4, Age: 30, Gender: m
+Name: p5, Age: 32, Gender: m
+Name: p6, Age: 12, Gender: f
+Name: p7, Age: 32, Gender: f
+Name: p8, Age: 30, Gender: f
+Name: p9, Age: 21, Gender: f
+Name: p10, Age: 10, Gender: f
+
+pnr- PNR410293
+Passenger Details:
+Name: akshit, Age: 18, Gender: M
+Name: sudo, Age: 19, Gender: F
+
+PNR: PNR430290
+Route: noida to delhi
+Date of Travel: 23/05/2024
+Passenger Details:
+Name: akshit, Age: 18, Gender: M
+Name: sudo, Age: 18, Gender: F
+
+PNR: PNR126640
+Route: jammu to delhi
+Date of Travel: 23/05/2024
+Passenger Details:
+Name: akshit, Age: 18, Gender: M
+Name: sudo, Age: 18, Gender: F
+
+PNR: PNR113666
+Route: delhi to lucknow
+Date of Travel: 24/05/2024
+Passenger Details:
+Name: p1, Age: 18, Gender: M
+Name: p2, Age: 18, Gender: F
+
